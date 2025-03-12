@@ -1,0 +1,1 @@
+# Script to consume Kafka data and store in PostgreSQL
